@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260513154334WKNVL6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026051315433409VB14</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>&quot;Mi Identidad Musical Digital: Ruta del Portfolio&quot;.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>&quot;Nivel: 1º de Enseñanzas Profesionales de Saxofón&quot;.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Fátima Pérez Gutiérrez.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>&quot;Proyecto centrado en la creación de un portfolio digital profesional. El alumnado de primer curso de profesional desarrollará su identidad como músicos en la red, gestionando de forma crítica sus grabaciones, su presencia digital y el respeto a la propiedad intelectual mediante herramientas de curación y publicación&quot;.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778439196572</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+      <odeBlockId>block-1778430812874-zzwuegwk9</odeBlockId>
+      <blockName>Información Curricular</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+          <odeBlockId>block-1778430812874-zzwuegwk9</odeBlockId>
+          <odeIdeviceId>idevice-1778430812870-az9wxcl1k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Esta Situación de Aprendizaje, titulada "Mi Identidad Musical Digital: Ruta del Portfolio", está diseñada para el alumnado de 1º de Enseñanzas Profesionales de Saxofón. El objetivo principal es que el estudiante pase de ser un usuario pasivo a un creador de contenido consciente, gestionando su propia marca artística a través de un portfolio digital en Padlet. </p>
+<p>Vinculación Curricular y Tareas:</p>
+<p>* Tarea 1: Seguridad. Configuración de entornos privados y protección del "Yo Virtual".</p>
+<p>* Tarea 2: Ética. Búsqueda de repertorio en IMSLP y gestión de licencias Creative Commons para respetar la propiedad intelectual.</p>
+<p>* Tarea 3: Producción. Registro de procesos de estudio y grabaciones de audio directo en cabinas.</p>
+<p>* Tarea 4: Colaboración. Uso de netiqueta profesional para el intercambio de críticas constructivas.</p>
+<p>* Tarea 5: Accesibilidad. Aplicación de principios DUA mediante el etiquetado de textos alternativos para lectores de pantalla. </p>
+<p>Se fomenta la inclusión permitiendo que el alumnado con ansiedad escénica realice sus primeras muestras de desempeño en la privacidad de las cabinas de estudio antes de la difusión final. </p>
+<p><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Se aplicará un modelo de retroalimentación continua y formativa apoyado en herramientas digitales para facilitar la mejora del aprendizaje:</p>
+<p>* Feedback docente: Mediante una rúbrica digital detallada que el alumnado recibirá tras subir sus grabaciones a Padlet, permitiéndoles conocer sus fortalezas y áreas de mejora técnica.</p>
+<p>* Feedback entre iguales: A través de una diana de evaluación en las sesiones de netiqueta, donde los compañeros ofrecerán sugerencias constructivas sobre la interpretación y la marca personal digital.</p>
+<p>* Autorreflexión: Mediante un cuestionario digital de Google Forms al finalizar la unidad, donde el alumno analizará su progreso en la gestión de su identidad y ética digital. </p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778430812870-az9wxcl1k","textInfoDurationInput":"","textInfoDurationTextInput":"La situación de aprendizaje se desarrollará a lo largo de 6 sesiones presenciales de 60 minutos cada una, distribuidas en un trimestre, además de las horas de estudio personal estimadas para la grabación de evidencias en las cabinas del centro.","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Esta propuesta está dirigida al alumnado de 1º de Enseñanzas Profesionales de Saxofón. Se trabajará de forma individual (en la configuración de seguridad y grabaciones), por parejas (en la búsqueda de repertorio en IMSLP) y en tríos (para las dinámicas de coevaluación y netiqueta).","textTextarea":"<div class=\"exe-text-activity\"><p>Esta Situación de Aprendizaje, titulada \"Mi Identidad Musical Digital: Ruta del Portfolio\", está diseñada para el alumnado de 1º de Enseñanzas Profesionales de Saxofón. El objetivo principal es que el estudiante pase de ser un usuario pasivo a un creador de contenido consciente, gestionando su propia marca artística a través de un portfolio digital en Padlet. </p>\n<p>Vinculación Curricular y Tareas:</p>\n<p>* Tarea 1: Seguridad. Configuración de entornos privados y protección del \"Yo Virtual\".</p>\n<p>* Tarea 2: Ética. Búsqueda de repertorio en IMSLP y gestión de licencias Creative Commons para respetar la propiedad intelectual.</p>\n<p>* Tarea 3: Producción. Registro de procesos de estudio y grabaciones de audio directo en cabinas.</p>\n<p>* Tarea 4: Colaboración. Uso de netiqueta profesional para el intercambio de críticas constructivas.</p>\n<p>* Tarea 5: Accesibilidad. Aplicación de principios DUA mediante el etiquetado de textos alternativos para lectores de pantalla. </p>\n<p>Se fomenta la inclusión permitiendo que el alumnado con ansiedad escénica realice sus primeras muestras de desempeño en la privacidad de las cabinas de estudio antes de la difusión final. </p>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Se aplicará un modelo de retroalimentación continua y formativa apoyado en herramientas digitales para facilitar la mejora del aprendizaje:</p>\n<p>* Feedback docente: Mediante una rúbrica digital detallada que el alumnado recibirá tras subir sus grabaciones a Padlet, permitiéndoles conocer sus fortalezas y áreas de mejora técnica.</p>\n<p>* Feedback entre iguales: A través de una diana de evaluación en las sesiones de netiqueta, donde los compañeros ofrecerán sugerencias constructivas sobre la interpretación y la marca personal digital.</p>\n<p>* Autorreflexión: Mediante un cuestionario digital de Google Forms al finalizar la unidad, donde el alumno analizará su progreso en la gestión de su identidad y ética digital. </p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Se aplicará un modelo de retroalimentación continua y formativa apoyado en herramientas digitales para facilitar la mejora del aprendizaje:</p>\n<p>* Feedback docente: Mediante una rúbrica digital detallada que el alumnado recibirá tras subir sus grabaciones a Padlet, permitiéndoles conocer sus fortalezas y áreas de mejora técnica.</p>\n<p>* Feedback entre iguales: A través de una diana de evaluación en las sesiones de netiqueta, donde los compañeros ofrecerán sugerencias constructivas sobre la interpretación y la marca personal digital.</p>\n<p>* Autorreflexión: Mediante un cuestionario digital de Google Forms al finalizar la unidad, donde el alumno analizará su progreso en la gestión de su identidad y ética digital. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+      <odeBlockId>block-1778605000015-xai9hsige</odeBlockId>
+      <blockName>Infografía tarea 2.1</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+          <odeBlockId>block-1778605000015-xai9hsige</odeBlockId>
+          <odeIdeviceId>idevice-1778605000012-b0p9eu4sg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Infografía Normas de Clase.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778605000012-b0p9eu4sg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Infografía Normas de Clase.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+      <odeBlockId>block-1778678557989-cch27m2az</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+          <odeBlockId>block-1778678557989-cch27m2az</odeBlockId>
+          <odeIdeviceId>idevice-1778678557978-9inc42qrs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778678557978-9inc42qrs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+      <odeBlockId>block-1778678816381-daomqgm7z</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430723736-l9n87wm3g</odePageId>
+          <odeBlockId>block-1778678816381-daomqgm7z</odeBlockId>
+          <odeIdeviceId>idevice-1778678816379-4wif9qh2p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/FÁTIMA PÉREZ GUTIÉRREZ.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778678816379-4wif9qh2p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/FÁTIMA PÉREZ GUTIÉRREZ.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778430734674-23wkep74f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Seguridad Digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Seguridad Digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778430734674-23wkep74f</odePageId>
+      <odeBlockId>block-1778431234160-qfte9wekb</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430734674-23wkep74f</odePageId>
+          <odeBlockId>block-1778431234160-qfte9wekb</odeBlockId>
+          <odeIdeviceId>idevice-1778431234157-uy35p2jvr</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">El "Yo Virtual" y tu Marca Artística</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Como alumnos de Grado Profesional, vuestra presencia en internet empieza a ser vuestra carta de presentación al mundo. En esta sesión aprenderemos que proteger nuestra identidad digital no es solo una cuestión de seguridad, sino de prestigio profesional. Un perfil bien protegido y gestionado evita suplantaciones y garantiza que solo tú controlas lo que los demás ven de tu trabajo artístico.</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Configuración de Seguridad en Padlet</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Para vuestro portfolio digital, utilizaremos la herramienta Padlet siguiendo estos protocolos de seguridad profesional:</p>
+<p>&nbsp;Muros Privados: Configuraremos el muro en modo "Secreto" para que solo las personas con el enlace puedan acceder.&nbsp;</p>
+<p>Contraseñas Robustas: Aprenderemos a crear claves que combinen mayúsculas, números y símbolos para proteger el acceso a vuestras evidencias de estudio.</p>
+<p>Permisos de Visitante: Ajustaremos los permisos para que vuestros compañeros puedan comentar (Netiqueta), pero no editar vuestro contenido original.</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Protección de Datos (Garantía de Derechos)</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Es fundamental conocer vuestros derechos digitales. Según la normativa vigente, tenéis derecho a la seguridad de vuestros datos personales en el entorno educativo y a que vuestra imagen sea tratada con respeto. En esta sesión, configuraremos las tablets del aula de instrumento asegurándonos de cerrar sesión y no almacenar datos sensibles en dispositivos compartidos.&nbsp;</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778430744049-e82j4ntcy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Ética y Propiedad</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Ética y Propiedad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778430744049-e82j4ntcy</odePageId>
+      <odeBlockId>block-1778431474575-zovo5x8j6</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430744049-e82j4ntcy</odePageId>
+          <odeBlockId>block-1778431474575-zovo5x8j6</odeBlockId>
+          <odeIdeviceId>idevice-1778431474573-m2ner4lxa</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">¿De quién es la música? (Propiedad Intelectual)</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>En el Grado Profesional, el respeto a la creación es parte de nuestra ética como músicos. Debemos distinguir entre:</p>
+<p>Dominio Público: Obras de compositores que fallecieron hace más de 70-80 años (como la mayoría del repertorio clásico de saxofón).<br>Copyright: Obras actuales donde necesitamos permiso o licencia para su uso y difusión.<br>Creative Commons: Licencias que permiten compartir y usar obras bajo ciertas condiciones (atribución, uso no comercial, etc.).</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">La Biblioteca IMSLP (Curación de Contenidos)</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Para nuestro portfolio, utilizaremos la biblioteca digital IMSLP. Pero cuidado: antes de descargar una partitura, debemos comprobar si la edición es legal en nuestro país y qué tipo de licencia tiene.</p>
+<p>Tarea: Busca una obra para saxofón en IMSLP e identifica si tiene el icono de "Public Domain" o una licencia "Creative Commons".<br>Recuerda: Siempre debemos citar al compositor/a y al editor en nuestro Padlet.</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Citando fuentes en el Portfolio</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Cada vez que subas un audio o una foto de una partitura a tu portfolio, debes incluir un pequeño texto de "Atribución":</p>
+<p>Ejemplo: "Estudio nº 2 de Guy Lacour. Interpretado por [Tu Nombre]. Partitura consultada en IMSLP bajo licencia CC". Esto garantiza que tu huella digital sea la de un músico honesto y profesional.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778430744049-e82j4ntcy</odePageId>
+      <odeBlockId>block-1778431712068-e5ua4q6se</odeBlockId>
+      <blockName>IMSLP</blockName>
+      <iconName>music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430744049-e82j4ntcy</odePageId>
+          <odeBlockId>block-1778431712068-e5ua4q6se</odeBlockId>
+          <odeIdeviceId>idevice-1778431712065-yg5j7vhsn</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://imslp.org/wiki/Main_Page" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778430753700-0fvgh536q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Mi Portfolio</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Mi Portfolio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778430753700-0fvgh536q</odePageId>
+      <odeBlockId>block-1778432275589-revfynwpi</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430753700-0fvgh536q</odePageId>
+          <odeBlockId>block-1778432275589-revfynwpi</odeBlockId>
+          <odeIdeviceId>idevice-1778432275585-e2xd9wb16</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">El Reto del Portfolio.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Vais a crear vuestra propia marca artística en un Padlet profesional. Aquí subiréis vuestros mejores audios y partituras.</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Grabación en Cabina.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Usad las cabinas del conservatorio para vuestros ensayos. Grabad, escuchad con autocrítica y subid solo la mejor toma a vuestro portfolio.</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Inclusión y Accesibilidad.</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>"No olvidéis poner el 'Texto Alternativo' en vuestras fotos. Un músico profesional del siglo XXI hace que su arte llegue a todo el mundo, incluidas las personas con discapacidad visual."</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778430769474-zczu9pm76</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778430769474-zczu9pm76</odePageId>
+      <odeBlockId>block-1778432451811-uigksxmql</odeBlockId>
+      <blockName>¿Cómo vamos a evaluar tu progreso?</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430769474-zczu9pm76</odePageId>
+          <odeBlockId>block-1778432451811-uigksxmql</odeBlockId>
+          <odeIdeviceId>idevice-1778432451808-n1dk6g7l6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto no solo cuenta la nota del examen, sino todo tu proceso de aprendizaje. Utilizaremos tres herramientas:</p>
+<p>Rúbrica de Portfolio (Heteroevaluación): Yo evaluaré la calidad de tus grabaciones, el respeto a la propiedad intelectual y si has aplicado los criterios de accesibilidad.<br />Diana de Netiqueta (Coevaluación): Evaluarás junto a tus compañeros cómo os habéis ayudado y si las críticas han sido constructivas y profesionales.<br />Cuestionario de Reflexión (Autoevaluación): Al final, responderás a un formulario digital para analizar qué has aprendido sobre tu marca personal.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432451808-n1dk6g7l6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto no solo cuenta la nota del examen, sino todo tu proceso de aprendizaje. Utilizaremos tres herramientas:</p>\n<p>Rúbrica de Portfolio (Heteroevaluación): Yo evaluaré la calidad de tus grabaciones, el respeto a la propiedad intelectual y si has aplicado los criterios de accesibilidad.<br />Diana de Netiqueta (Coevaluación): Evaluarás junto a tus compañeros cómo os habéis ayudado y si las críticas han sido constructivas y profesionales.<br />Cuestionario de Reflexión (Autoevaluación): Al final, responderás a un formulario digital para analizar qué has aprendido sobre tu marca personal.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778430769474-zczu9pm76</odePageId>
+      <odeBlockId>block-1778432631186-0bl8ldz2t</odeBlockId>
+      <blockName>TAREA FINAL: Cuestionario de Autoevaluación.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778430769474-zczu9pm76</odePageId>
+          <odeBlockId>block-1778432631186-0bl8ldz2t</odeBlockId>
+          <odeIdeviceId>idevice-1778432631182-iu5p39af4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Haz clic en el botón de abajo para acceder al formulario de Google y reflexionar sobre lo aprendido.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfW5BJ3cUejjWbE2Lz8EtDx-VTZCi-8GjuTtvJ4B2xxCE6ZGA/viewform?usp=sharing&amp;ouid=112424473227824779423" target="_blank" rel="noopener" title="">Autoevaluación</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432631182-iu5p39af4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Haz clic en el botón de abajo para acceder al formulario de Google y reflexionar sobre lo aprendido.</p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfW5BJ3cUejjWbE2Lz8EtDx-VTZCi-8GjuTtvJ4B2xxCE6ZGA/viewform?usp=sharing&amp;ouid=112424473227824779423\" target=\"_blank\" rel=\"noopener\" title=\"\">Autoevaluación</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778678887318-zl1cx047b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Creditos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778678887318-zl1cx047b</odePageId>
+      <odeBlockId>block-1778679510048-63mescswn</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778678887318-zl1cx047b</odePageId>
+          <odeBlockId>block-1778679510048-63mescswn</odeBlockId>
+          <odeIdeviceId>idevice-1778679510045-9v2bmcj9u</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">"Mi Identidad Musical Digital: Ruta del Portfolio".</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">"Proyecto centrado en la creación de un portfolio digital profesional. El alumnado de primer curso de profesional desarrollará su identidad como músicos en la red, gestionando de forma crítica sus grabaciones, su presencia digital y el respeto a la propiedad intelectual mediante herramientas de curación y publicación".</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Fátima Pérez Gutiérrez.</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
